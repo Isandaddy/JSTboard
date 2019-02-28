@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/board/controller/DeleteController.java=UTF-8
+encoding//src/board/controller/ListController.java=UTF-8
+encoding//src/board/controller/ReplyController.java=UTF-8
+encoding//src/board/controller/UpdateController.java=UTF-8
+encoding//src/board/dao/BoardDaoImpl.java=UTF-8
+encoding//src/board/mybatis/BoardManager.java=UTF-8
+encoding//src/board/service/BoardServiceImpl.java=UTF-8
